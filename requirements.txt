@@ -1,0 +1,20 @@
+# Core
+python>=3.10
+streamlit==1.50.0
+pandas==2.3.2
+numpy==2.3.3
+scikit-learn==1.5.2
+joblib==1.5.2
+
+# Visualization (if you want to plot or extend the app)
+matplotlib==3.10.6
+seaborn==0.13.2
+
+# Gradient boosting libraries used in your notebook
+catboost==1.2.8
+lightgbm==4.6.0
+xgboost==3.0.5
+
+# Optional interactive charts
+altair==5.5.0
+plotly==6.3.0
