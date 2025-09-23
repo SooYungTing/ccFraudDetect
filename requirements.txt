@@ -5,6 +5,7 @@ pandas==2.3.2
 numpy==2.3.3
 scikit-learn==1.5.2
 joblib==1.5.2
+gdown==5.2.0 
 
 # Visualization (if you want to plot or extend the app)
 matplotlib==3.10.6
