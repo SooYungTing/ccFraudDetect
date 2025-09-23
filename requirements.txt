@@ -1,5 +1,4 @@
 # Core
-python>=3.10
 streamlit==1.50.0
 pandas==2.3.2
 numpy==2.3.3
